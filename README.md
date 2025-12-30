@@ -1,3 +1,5 @@
 # Literature_Review_OpenProblem - Research
 
-The leveraged LangGraph, LangChain and GraphRAG methodologies to create an AI-Agent to help you automatically conduct literature review to give people directions about an open problem in Statistics
+An AI agent to support researchers across disciplines in conducting structured literature reviews on open research problems.
+
+https://colab.research.google.com/drive/1DWQ0G5sXoQyyj9XUDWDpG1INpcjk6PBH
